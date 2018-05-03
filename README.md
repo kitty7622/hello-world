@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+Just another repository.
 Hey.
 
 I'm a grade 6 student at ssms.
